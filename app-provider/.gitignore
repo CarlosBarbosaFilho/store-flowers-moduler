@@ -1,0 +1,8 @@
+*.attach_pid16465
+*.project
+*.settings/
+.classpath
+.settings
+.project
+.attach_pid16465
+/target
